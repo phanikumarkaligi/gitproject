@@ -14,5 +14,9 @@ class object: NSObject {
         
     }
     
+    
+    func second() {
+        
+    }
 
 }
