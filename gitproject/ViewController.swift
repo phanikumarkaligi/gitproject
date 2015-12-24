@@ -22,7 +22,13 @@ class ViewController: UIViewController {
             //some method
         }
         
+        func thirdMethod() {
+            
+        }
         
+     func   extra() {
+            
+        }
         
         
     }
