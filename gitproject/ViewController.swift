@@ -18,6 +18,10 @@ class ViewController: UIViewController {
             print("some mrthod")
         }
         
+        func secondmethod() {
+            //some method
+        }
+        
         
         
         
